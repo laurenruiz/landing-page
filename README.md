@@ -1,3 +1,6 @@
+Hello! This is my new landing page I made as a project for the Headstarter Fellowship! I have kept the original information for the template I used if you would like to learn more :)!
+
+
 Aerial by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
